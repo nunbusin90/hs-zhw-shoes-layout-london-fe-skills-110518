@@ -24,4 +24,8 @@
 
 /* Positioning Classes */
 
+.shadow-left {
+    display: inline-block;
+    width: 640px;
+}
 
