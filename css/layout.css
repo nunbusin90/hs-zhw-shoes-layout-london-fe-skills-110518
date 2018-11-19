@@ -29,3 +29,9 @@
     width: 640px;
 }
 
+.shadow-side {
+    display: inline-block;
+    width: 300px;
+    margin-left: 15px;
+}
+
